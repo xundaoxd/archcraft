@@ -309,8 +309,8 @@ archcraft/grub
 archcraft-grub-theme
 
 ##-------- Plymouth -----------------##
-archcraft/plymouth
-archcraft-plymouth-theme
+# archcraft/plymouth
+# archcraft-plymouth-theme
 
 ##-------- Display Manager ----------##
 sddm
